@@ -34,7 +34,7 @@ Exécutez les scripts dans cet ordre :
 
 1️⃣ Collecte des recettes depuis le web
 python collecte_scrap.py
-2️⃣ Collecte des données depuis Wikipedia
+2️⃣ Collecte des données depuis Wikidata
 python collecte_wiki_data.py
 3️⃣ Collecte des valeurs nutritionnelles depuis un CSV
 Assurez-vous d’avoir le fichier CSV avant d’exécuter ce script :
