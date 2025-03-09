@@ -53,3 +53,4 @@ crontabab -e
 0 8 * * 1 /usr/bin/python3 /chemin/vers/scripts_collecte/collecte_scrap.py >> /chemin/vers/logs_cron.log 2>&1
 Vérifiez les tâches planifiées :
 crontab -l
+ensuite lancer le fichier test pour vérifier que tout est bon
