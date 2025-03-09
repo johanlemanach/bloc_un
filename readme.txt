@@ -1,5 +1,5 @@
 Projet de Collecte et API de Recettes
-Ce projet permet de collecter, stocker et exploiter des recettes et leurs valeurs nutritionnelles via une API REST. Il utilise FastAPI, MongoDB, MySQL et des sources externes comme FatSecret et Wikipedia pour enrichir les données.
+Ce projet permet de collecter, stocker et exploiter des recettes et leurs valeurs nutritionnelles via une API REST. Il utilise FastAPI, MongoDB, MySQL et des sources externes comme FatSecret et Wikidata pour enrichir les données.
 
 Installation et Configuration
 1️⃣ Cloner le projet
